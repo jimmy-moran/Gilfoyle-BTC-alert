@@ -6,6 +6,8 @@
 
 -Theres 2 functions making 2 price target alerts.  
 
+-If you don't want to store any prices with dates to file/drive/storage then I suggest pounding that out in the last bit of code. (also instructions in each function of which one to block to not allow this)
+
 -You need to download Napalm-death 'you suffer' and copy the file path to both functions (Get-bitcoinPrice, and Get-BitcoinPrice2)
 
 -I can only confirm this works on WINDOWS 10 and windows media player (wmp)  No other OS or music player was tested
