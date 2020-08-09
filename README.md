@@ -1,4 +1,5 @@
-# Gilfoyle-BTC-alert
+# Gilfoyle-BTC-alert 
+-Written with Powershell
 -Alerts user when Bitcoin reaches a certain price target.  
 -Theres 2 functions making 2 price target alerts.  
 -You need to download Napalm-death 'you suffer' and copy the file path to both functions (Get-bitcoinPrice, and Get-BitcoinPrice2)
